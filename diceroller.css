@@ -1,0 +1,50 @@
+
+#main{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(10, 10, 10);
+    color: white;
+    margin-top: 20px;
+}
+
+#myp{
+    font-size: 30px;
+}
+
+
+#myText{
+    border-radius: 25px;
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+#diceimages img{
+    width: 100px;
+    margin: 5px;
+
+}
+
+#myroll{
+    color: white;
+    border-radius: 25px;
+    width: 75px;
+    height: 55px;
+    font-size: 20px;
+    padding-left: 10px;
+    font-weight: bold;
+    background-color: rgb(255, 0, 0);
+    
+}
+
+#myroll:hover{
+    opacity: 90;
+}
+#container{
+    margin: 40px;
+    
+}
