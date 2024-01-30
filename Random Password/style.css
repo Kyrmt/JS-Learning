@@ -1,0 +1,51 @@
+
+#body{
+    background-color: rgb(20, 20, 20);
+}
+
+
+.container{
+    padding: 20px 20px 20px 30px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    
+}
+.slider .myrage input{
+    width: 100px;
+}
+.myh{
+    
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+
+.pass{
+    justify-content: center;
+    text-align: center;
+    align-items: center;   
+}
+
+#mybutton{
+    border-radius: 30px;
+    padding: 10px 20px;
+    border: none;
+    background-color: rgb(57, 57, 255);
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#mybutton:hover{
+    opacity: 90%;
+}
+#mybutton:active{
+    opacity: 100%;
+    transform: translate(0px, 5px);
+  -webkit-transform: translate(0px, 5px);
+  box-shadow: 0px 1px 0px 0px;
+}
+.mypass{
+    color: white;
+}
