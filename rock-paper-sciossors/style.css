@@ -1,0 +1,37 @@
+body{
+    margin:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#mybuttons{
+    padding-bottom: 20px;
+}
+
+.choices{
+    margin-bottom: 50px;
+}
+.choices button{
+    font-size: 6rem;
+    min-width: 170px;
+    margin: 0 10px;
+    border-radius: 400px;
+    background-color: hsl(200, 100%, 50%);
+    cursor: pointer;
+
+    
+
+}
+
+.choices button:hover{
+    opacity: 80%;
+}
+
+.onclick{
+
+  background-color: tomato;
+  transform: translateY(29px);
+
+}
